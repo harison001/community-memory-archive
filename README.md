@@ -38,7 +38,7 @@ A decentralized platform for storing and sharing community memories on the Stack
 
 ### Setup
 1. Clone the repository
-2. Install dependencies: `npm install`
+2. Install dependencies: `npm  install`
 3. Test contracts: `clarinet test`
 4. Check contract: `clarinet check`
 
@@ -49,4 +49,4 @@ Run tests with: `clarinet test`
 
 Deploy to testnet:
 ```bash
-clarinet deploy --testnet
+clarinet deploy --testnet## Status: Ready for Review
